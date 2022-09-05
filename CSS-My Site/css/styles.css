@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    /* background-color: #daece7; */
+    
+}
+p{
+    color:#40514E
+}
+.hrtool{
+    border-style: dotted none none;
+    border-bottom: none;
+    width: 7%;
+    border-width: 5px;
+    border-color: #646767;
+
+
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    margin-top: 100px;
+    margin-bottom: 0;
+    font-size: 5.265rem;
+    color:  #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5 rem;
+    /* margin-top: 0; */
+    color:  #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.topContainer{
+    background-color: #daece7;
+    padding: 100px;
+    position: relative;
+}
+.bottom_cloud{
+    position: absolute;
+    bottom:300px;
+    left: 300px;
+}
+.top_cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.profile_class{
+    height: 200px;
+    width: auto;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto ;
+    text-align: left;
+    line-height: 2;   
+    color: #11999E;   
+}
+.skill_image1{
+    width: 25%;
+    float: left;
+    margin-right:30px;
+    /* height: 25%; */
+    /* border-radius: 50%; */
+}
+.skill_image2{
+    width: 25%;
+    float: right;
+    margin-left:30px ;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+    padding: 20px;
+}
+a:hover{
+    color:#40514E
+}
+.abc{
+    /* clear:left; */
+}
+.abc2{
+    /* clear:right; */
+}
+.bottom-container{
+    background-color:#66BFBF ;
+    /* height: 300px; */
+    padding: 20px;
+}
+.bottom-container p{
+    color: #EAF6F6;
+}
+.btn{
+    background-color:#66BFBF;
+    color: #f3fafa;
+    border: none;
+    padding: 15px 42px;
+    margin-top: 30px;
+    margin-bottom:40px ;
+    border-radius: 8px;
+    font-size: 16px;
+}
+.btn:hover{
+    background-color:#73b6b6;
+    /* color: #30e3cb; */
+    color:#dbecea ;
+}
+.profile p{
+padding-bottom: 20px;
+}
+.skills{
+    padding-top: 30px;
+}
+.copy{
+    color: #daece7;
+    font-size: 0.75rem;
+    padding: 30px 20px;
+}
